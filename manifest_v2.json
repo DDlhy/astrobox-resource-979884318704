@@ -1,0 +1,44 @@
+{
+  "item": {
+    "id": "979884318704",
+    "restype": "watchface",
+    "name": "Bluenlink",
+    "description": "通过蓝牙与其他安装此原生应用的手环进行通信，支持固件4.100.139，3.101.043，可进行私聊，摩斯电码，群聊等模式",
+    "preview": [
+      "media/Bluenlink宣传图-3x2-tuya.png",
+      "media/0bd40f43-a3e6-48e8-a878-6a5e676cec72 - 副本.png.check-tuya.png",
+      "media/0bd40f43-a3e6-48e8-a878-6a5e676cec72-tuya.png",
+      "media/download1-tuya.png",
+      "media/download-tuya.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/preview.jpg",
+    "author": [
+      {
+        "name": "lhy",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-band10pro-3.101.043.face",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-band11-4.100.139.face",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-band11-4.100.139.face",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
