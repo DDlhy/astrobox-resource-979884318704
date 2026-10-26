@@ -12,7 +12,7 @@
       "media/download-tuya.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/preview.jpg",
+    "cover": "media/preview (1)-tuya.png",
     "author": [
       {
         "name": "lhy",
@@ -35,6 +35,26 @@
     "xmb11nfc": {
       "version": "0.0.0",
       "file_name": "downloads/Bluenlink-band11-4.100.139.face",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-10-3128-v0.7.3-trial.face",
+      "versionCode": 0
+    },
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-10-3128-v0.7.3-trial.face",
+      "versionCode": 0
+    },
+    "xmb9": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-9-3132-v0.8.7-trial.face",
+      "versionCode": 0
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Bluenlink-9p-31190-v0.7.10-trial.face",
       "versionCode": 0
     }
   },
